@@ -1,0 +1,13 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Calendar":        "src/",
+            "CalendarTest": "tests/"
+        }
+    }
+}
+
